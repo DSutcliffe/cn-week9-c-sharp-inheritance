@@ -1,0 +1,10 @@
+/Users/codenation/Desktop/cnCourse/cn-week9-c-sharp-inheritance/bin/Debug/netcoreapp3.1/cn-week9-c-sharp-inheritance.deps.json
+/Users/codenation/Desktop/cnCourse/cn-week9-c-sharp-inheritance/bin/Debug/netcoreapp3.1/cn-week9-c-sharp-inheritance.runtimeconfig.json
+/Users/codenation/Desktop/cnCourse/cn-week9-c-sharp-inheritance/bin/Debug/netcoreapp3.1/cn-week9-c-sharp-inheritance.runtimeconfig.dev.json
+/Users/codenation/Desktop/cnCourse/cn-week9-c-sharp-inheritance/bin/Debug/netcoreapp3.1/cn-week9-c-sharp-inheritance.dll
+/Users/codenation/Desktop/cnCourse/cn-week9-c-sharp-inheritance/bin/Debug/netcoreapp3.1/cn-week9-c-sharp-inheritance.pdb
+/Users/codenation/Desktop/cnCourse/cn-week9-c-sharp-inheritance/obj/Debug/netcoreapp3.1/cn-week9-c-sharp-inheritance.csprojAssemblyReference.cache
+/Users/codenation/Desktop/cnCourse/cn-week9-c-sharp-inheritance/obj/Debug/netcoreapp3.1/cn-week9-c-sharp-inheritance.AssemblyInfoInputs.cache
+/Users/codenation/Desktop/cnCourse/cn-week9-c-sharp-inheritance/obj/Debug/netcoreapp3.1/cn-week9-c-sharp-inheritance.AssemblyInfo.cs
+/Users/codenation/Desktop/cnCourse/cn-week9-c-sharp-inheritance/obj/Debug/netcoreapp3.1/cn-week9-c-sharp-inheritance.dll
+/Users/codenation/Desktop/cnCourse/cn-week9-c-sharp-inheritance/obj/Debug/netcoreapp3.1/cn-week9-c-sharp-inheritance.pdb
