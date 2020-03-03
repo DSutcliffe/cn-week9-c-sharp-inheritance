@@ -1,5 +1,5 @@
 
-
+square : make sit a subclass of 'class name'
 
 
 *********************************************************
